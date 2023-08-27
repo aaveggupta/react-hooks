@@ -1,9 +1,10 @@
 import "./App.css";
+import CustomHook from "./CustomHook/CustomHook";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <CustomHook />
     </div>
   );
 }
