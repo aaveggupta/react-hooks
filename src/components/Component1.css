@@ -1,0 +1,12 @@
+.component1 {
+  width: 20rem;
+  height: 35rem;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.component1 > h1 {
+  text-align: center;
+}
